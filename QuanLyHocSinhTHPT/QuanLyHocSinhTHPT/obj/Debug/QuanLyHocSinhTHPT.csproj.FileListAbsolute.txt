@@ -1,0 +1,17 @@
+C:\Users\hieun\Desktop\Học kì 6\Thực tập nhóm\QuanLyHocSinh\QuanLyHocSinhTHPT\QuanLyHocSinhTHPT\obj\Debug\QuanLyHocSinhTHPT.csprojAssemblyReference.cache
+C:\Users\hieun\Desktop\Học kì 6\Thực tập nhóm\QuanLyHocSinh\QuanLyHocSinhTHPT\QuanLyHocSinhTHPT\obj\Debug\QuanLyHocSinhTHPT.Properties.Resources.resources
+C:\Users\hieun\Desktop\Học kì 6\Thực tập nhóm\QuanLyHocSinh\QuanLyHocSinhTHPT\QuanLyHocSinhTHPT\obj\Debug\QuanLyHocSinhTHPT.csproj.GenerateResource.cache
+C:\Users\hieun\Desktop\Học kì 6\Thực tập nhóm\QuanLyHocSinh\QuanLyHocSinhTHPT\QuanLyHocSinhTHPT\obj\Debug\QuanLyHocSinhTHPT.csproj.CoreCompileInputs.cache
+C:\Users\hieun\Desktop\Học kì 6\Thực tập nhóm\QuanLyHocSinh\QuanLyHocSinhTHPT\QuanLyHocSinhTHPT\bin\Debug\QuanLyHocSinhTHPT.exe.config
+C:\Users\hieun\Desktop\Học kì 6\Thực tập nhóm\QuanLyHocSinh\QuanLyHocSinhTHPT\QuanLyHocSinhTHPT\bin\Debug\QuanLyHocSinhTHPT.exe
+C:\Users\hieun\Desktop\Học kì 6\Thực tập nhóm\QuanLyHocSinh\QuanLyHocSinhTHPT\QuanLyHocSinhTHPT\bin\Debug\QuanLyHocSinhTHPT.pdb
+C:\Users\hieun\Desktop\Học kì 6\Thực tập nhóm\QuanLyHocSinh\QuanLyHocSinhTHPT\QuanLyHocSinhTHPT\bin\Debug\MetroFramework.Design.dll
+C:\Users\hieun\Desktop\Học kì 6\Thực tập nhóm\QuanLyHocSinh\QuanLyHocSinhTHPT\QuanLyHocSinhTHPT\bin\Debug\MetroFramework.dll
+C:\Users\hieun\Desktop\Học kì 6\Thực tập nhóm\QuanLyHocSinh\QuanLyHocSinhTHPT\QuanLyHocSinhTHPT\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\hieun\Desktop\Học kì 6\Thực tập nhóm\QuanLyHocSinh\QuanLyHocSinhTHPT\QuanLyHocSinhTHPT\obj\Debug\QuanLyHocSinhTHPT.csproj.CopyComplete
+C:\Users\hieun\Desktop\Học kì 6\Thực tập nhóm\QuanLyHocSinh\QuanLyHocSinhTHPT\QuanLyHocSinhTHPT\obj\Debug\QuanLyHocSinhTHPT.exe
+C:\Users\hieun\Desktop\Học kì 6\Thực tập nhóm\QuanLyHocSinh\QuanLyHocSinhTHPT\QuanLyHocSinhTHPT\obj\Debug\QuanLyHocSinhTHPT.pdb
+C:\Users\hieun\Desktop\Học kì 6\Thực tập nhóm\QuanLyHocSinh\QuanLyHocSinhTHPT\QuanLyHocSinhTHPT\obj\Debug\QuanLyHocSinhTHPT.GUI.frmDangNhap.resources
+C:\Users\hieun\Desktop\Học kì 6\Thực tập nhóm\QuanLyHocSinh\QuanLyHocSinhTHPT\QuanLyHocSinhTHPT\obj\Debug\QuanLyHocSinhTHPT.GUI.frmMain.resources
+C:\Users\hieun\Desktop\Học kì 6\Thực tập nhóm\QuanLyHocSinh\QuanLyHocSinhTHPT\QuanLyHocSinhTHPT\obj\Debug\QuanLyHocSinhTHPT.GUI.frmHocSinh.resources
+C:\Users\hieun\Desktop\Học kì 6\Thực tập nhóm\QuanLyHocSinh\QuanLyHocSinhTHPT\QuanLyHocSinhTHPT\obj\Debug\QuanLyHocSinhTHPT.GUI.frmGiaoVien.resources
