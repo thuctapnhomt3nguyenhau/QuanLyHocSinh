@@ -13,3 +13,4 @@ Quản lý học sinh, giáo viên trường THPT
 | Module 5: Xây dựng tài liệu sử dụng phần mềm                      |       Hướng dẫn cài đặt, vận hành  F1       |          |
 | Module 6: Chạy kiểm thử phần mềm                                  |                                             |          |
 
+## Module 1: Quản lý học sinh
