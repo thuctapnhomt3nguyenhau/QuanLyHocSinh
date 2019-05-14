@@ -1,0 +1,15 @@
+C:\Users\hieun\Desktop\thuc-tap-nhom\QuanLyHocSinhTHPT\QuanLyHocSinhTHPT\bin\Debug\QuanLyHocSinhTHPT.exe.config
+C:\Users\hieun\Desktop\thuc-tap-nhom\QuanLyHocSinhTHPT\QuanLyHocSinhTHPT\bin\Debug\QuanLyHocSinhTHPT.exe
+C:\Users\hieun\Desktop\thuc-tap-nhom\QuanLyHocSinhTHPT\QuanLyHocSinhTHPT\bin\Debug\QuanLyHocSinhTHPT.pdb
+C:\Users\hieun\Desktop\thuc-tap-nhom\QuanLyHocSinhTHPT\QuanLyHocSinhTHPT\obj\Debug\QuanLyHocSinhTHPT.csprojAssemblyReference.cache
+C:\Users\hieun\Desktop\thuc-tap-nhom\QuanLyHocSinhTHPT\QuanLyHocSinhTHPT\obj\Debug\QuanLyHocSinhTHPT.GUI.frmMain.resources
+C:\Users\hieun\Desktop\thuc-tap-nhom\QuanLyHocSinhTHPT\QuanLyHocSinhTHPT\obj\Debug\QuanLyHocSinhTHPT.Properties.Resources.resources
+C:\Users\hieun\Desktop\thuc-tap-nhom\QuanLyHocSinhTHPT\QuanLyHocSinhTHPT\obj\Debug\QuanLyHocSinhTHPT.csproj.GenerateResource.cache
+C:\Users\hieun\Desktop\thuc-tap-nhom\QuanLyHocSinhTHPT\QuanLyHocSinhTHPT\obj\Debug\QuanLyHocSinhTHPT.csproj.CoreCompileInputs.cache
+C:\Users\hieun\Desktop\thuc-tap-nhom\QuanLyHocSinhTHPT\QuanLyHocSinhTHPT\obj\Debug\QuanLyHocSinhTHPT.exe
+C:\Users\hieun\Desktop\thuc-tap-nhom\QuanLyHocSinhTHPT\QuanLyHocSinhTHPT\obj\Debug\QuanLyHocSinhTHPT.pdb
+C:\Users\hieun\Desktop\thuc-tap-nhom\QuanLyHocSinhTHPT\QuanLyHocSinhTHPT\obj\Debug\QuanLyHocSinhTHPT.GUI.frmDiem.resources
+C:\Users\hieun\Desktop\thuc-tap-nhom\QuanLyHocSinhTHPT\QuanLyHocSinhTHPT\obj\Debug\QuanLyHocSinhTHPT.GUI.frmGiaoVien.resources
+C:\Users\hieun\Desktop\thuc-tap-nhom\QuanLyHocSinhTHPT\QuanLyHocSinhTHPT\obj\Debug\QuanLyHocSinhTHPT.GUI.frmHocSinh.resources
+C:\Users\hieun\Desktop\thuc-tap-nhom\QuanLyHocSinhTHPT\QuanLyHocSinhTHPT\obj\Debug\QuanLyHocSinhTHPT.GUI.frmLopHoc.resources
+C:\Users\hieun\Desktop\thuc-tap-nhom\QuanLyHocSinhTHPT\QuanLyHocSinhTHPT\obj\Debug\QuanLyHocSinhTHPT.GUI.frmMonHoc.resources
